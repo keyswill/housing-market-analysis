@@ -1,4 +1,4 @@
-# Mansfield Residential Listing Analysis
+# Benchmarking Residential Listings with Outlier-Aware Analysis
 
 An interactive Tableau case study examining how property size, bedroom and
 bathroom counts, listing type, and location relate to residential listing
@@ -28,7 +28,7 @@ See the complete [Business Understanding](docs/business_understanding.md) and [D
 
 ## Dashboard
 
-![Mansfield Residential Listing Analysis dashboard](dashboard/mansfield-listing-dashboard.png)
+![Benchmarking Residential Listings with Outlier-Aware Analysis dashboard](dashboard/mansfield-listing-dashboard.png)
 
 [Download the packaged Tableau workbook](dashboard/Mansfield%20Residential%20Listing%20Analysis.twbx)
 
